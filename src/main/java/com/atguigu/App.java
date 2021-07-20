@@ -13,5 +13,6 @@ public class App
         System.out.println("修改过热修复");
         System.out.println("修改master展现合并冲突");
         System.out.println("修改hot-fix体现merge冲突");
+        System.out.println("push");
     }
 }
