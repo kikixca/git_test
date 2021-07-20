@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "进行测试" );
+        System.out.println("还是得新建工程才爽");
     }
 }
